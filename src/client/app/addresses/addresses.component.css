@@ -1,0 +1,39 @@
+:host {
+  display: block;
+  padding: 0 16px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 0 0 8px;
+}
+
+.document {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  width: 400px;
+}
+
+
+/* Draggable*/
+
+.drag-border {
+    border: #ccc dashed 2px;
+}
+
+.drag-handle {
+    cursor: move; /* fallback if grab cursor is unsupported */
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}
+
+.drag-handle:active {
+    cursor: grabbing;
+    cursor: -moz-grabbing;
+    cursor: -webkit-grabbing;
+}
+
+.drag-target-border {
+  border: #106cc8 dashed 2px;
+}

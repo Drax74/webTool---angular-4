@@ -1,0 +1,29 @@
+[
+	{
+		"Id": 368104,
+		"Name": "Salgsoppgave",
+		"TemplateId": 98747,
+		"TemplateName": "180 mm x 250 mm, 1 side THREE_00023536",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/salgsoppgave3.jpg"
+	},
+	{
+		"Id": 368105,
+		"Name": "Salgsoppgave 1",
+		"TemplateId": 98747,
+		"TemplateName": "180 mm x 250 mm, 1 side THREE_00023536",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/salgsoppgave3.jpg"
+	},
+	{
+		"Id": 368106,
+		"Name": "Vindusplakat",
+		"TemplateId": 23457,
+		"TemplateName": "297 mm x 210 mm, 1 side THREE_00025970",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/vindusplakat4.jpg"
+	}
+]

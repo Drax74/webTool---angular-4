@@ -1,0 +1,54 @@
+[
+	{
+		"Id" : 368123,
+		"Name" : "Solbergsgate 10 C"
+	},
+	{
+		"Id" : 368040,
+		"Name" : "Solbergsgate 14 B"
+	},
+	{
+		"Id" : 368028,
+		"Name" : "Nye Stasjonsvei 20"
+	},
+	{
+		"Id" : 368009,
+		"Name" : "Pettersvollen 18"
+	},
+	{
+		"Id" : 358049,
+		"Name" : "Blichsgate 1"
+	},
+	{
+		"Id" : 378049,
+		"Name" : "Vestre Onstadvei 25"
+	},
+	{
+		"Id" : 368049,
+		"Name" : "Lauritz Hervigsvei 69 C"
+	},
+	{
+		"Id" : 368149,
+		"Name" : "Korsveien 64"
+	},
+	{
+		"Id" : 368249,
+		"Name" : "Lauritz Hervigsvei 37"
+	},
+	{
+		"Id" : 361949,
+		"Name" : "Konnerudgata 16 B"
+	},
+	{
+		"Id" : 362949,
+		"Name" : "Austadgata 36"
+	},
+	{
+		"Id" : 300049,
+		"Name" : "Myrehagen 33"
+	},
+	{
+		"Id" : 368000,
+		"Name" : "Engene 98 D"
+	}
+]

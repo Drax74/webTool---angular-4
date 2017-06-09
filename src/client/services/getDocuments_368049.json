@@ -1,0 +1,20 @@
+[
+	{
+		"Id": 368116,
+		"Name": "Avisannonse",
+		"TemplateId": 22789,
+		"TemplateName": "122 mm x 107 mm, 1 side THREE_00025560",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/avisannonse4.jpg"
+	},
+	{
+		"Id": 368117,
+		"Name": "Vindusplakat",
+		"TemplateId": 12345,
+		"TemplateName": "80 mm x 107 mm, 1 side THREE_00022267",
+		"CreatedByUserId": 2581,
+		"CreatedByUserName": "Kari Nordmann",
+		"Preview": "images/vindusplakat1.jpg"
+	}
+]

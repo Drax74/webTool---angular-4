@@ -1,0 +1,20 @@
+[
+	{
+		"Id": 368112,
+		"Name": "Avisannonse",
+		"TemplateId": 22123,
+		"TemplateName": "80 mm x 83.5 mm, 1 side THREE_00025562",
+		"CreatedByUserId": 2584,
+		"CreatedByUserName": "Terje Kristoffersen",
+		"Preview": "images/avisannonse3.jpg"
+	},
+	{
+		"Id": 368113,
+		"Name": "Vindusplakat",
+		"TemplateId": 12345,
+		"TemplateName": "80 mm x 107 mm, 1 side THREE_00022267",
+		"CreatedByUserId": 2584,
+		"CreatedByUserName": "Terje Kristoffersen",
+		"Preview": "images/vindusplakat1.jpg"
+	}
+]

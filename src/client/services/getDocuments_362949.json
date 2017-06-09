@@ -1,0 +1,29 @@
+[
+	{
+		"Id": 368122,
+		"Name": "Avisannonse",
+		"TemplateId": 22209,
+		"TemplateName": "80 mm x 107 mm, 1 side THREE_00022267",
+		"CreatedByUserId": 2584,
+		"CreatedByUserName": "Terje Kristoffersen",
+		"Preview": "images/avisannonse1.jpg"
+	},
+	{
+		"Id": 368123,
+		"Name": "Vindusplakat",
+		"TemplateId": 12345,
+		"TemplateName": "80 mm x 107 mm, 1 side THREE_00022267",
+		"CreatedByUserId": 2583,
+		"CreatedByUserName": "Ingrid Hansen",
+		"Preview": "images/vindusplakat1.jpg"
+	},
+	{
+		"Id": 368124,
+		"Name": "Salgsoppgave",
+		"TemplateId": 98747,
+		"TemplateName": "180 mm x 250 mm, 1 side THREE_00023536",
+		"CreatedByUserId": 2583,
+		"CreatedByUserName": "Ingrid Hansen",
+		"Preview": "images/salgsoppgave3.jpg"
+	}
+]

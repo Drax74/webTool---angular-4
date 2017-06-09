@@ -1,0 +1,29 @@
+<p>List of addresses</p>
+
+<ul>
+  <li
+    *ngFor="let address of addresses"
+    (click)="select(address)"
+    (onDrop)="onItemDrop($event, address)"
+    [dragOverClass]="'drag-target-border'"
+    droppable
+    >
+      {{ address.Name }}
+      <ul *ngIf="currentAddress == address && documentsVisible">
+        <ng-container *ngIf="documents?.length > 0;else message">
+          <li
+            *ngFor="let document of documents"
+            class="document"
+            [dragData]="document"
+            draggable
+            >
+            <p>{{ document.Name }}</p>
+            <p>{{ document.TemplateName }}</p>
+            <p>{{ document.CreatedByUserName }}</p>
+            <p>{{ document.Preview }}</p>
+          </li>
+        </ng-container>
+        <ng-template #message>No documents for {{ address.Name }}</ng-template>
+      </ul>
+  </li>
+</ul>

@@ -1,0 +1,20 @@
+[
+	{
+		"Id": 368118,
+		"Name": "Vindusplakat",
+		"TemplateId": 23457,
+		"TemplateName": "297 mm x 210 mm, 1 side THREE_00025970",
+		"CreatedByUserId": 2583,
+		"CreatedByUserName": "Ingrid Hansen",
+		"Preview": "images/vindusplakat4.jpg"
+	},
+	{
+		"Id": 368119,
+		"Name": "Salgsoppgave",
+		"TemplateId": 98745,
+		"TemplateName": "210 mm x 297 mm, 1 side THREE_00028374",
+		"CreatedByUserId": 2581,
+		"CreatedByUserName": "Kari Nordmann",
+		"Preview": "images/salgsoppgave1.jpg"
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"Id": 368114,
+		"Name": "Salgsoppgave",
+		"TemplateId": 98746,
+		"TemplateName": "180 mm x 250 mm, 1 side THREE_00022941",
+		"CreatedByUserId": 2583,
+		"CreatedByUserName": "Ingrid Hansen",
+		"Preview": "images/salgsoppgave2.jpg"
+	},
+	{
+		"Id": 368115,
+		"Name": "Salgsoppgave 1",
+		"TemplateId": 98747,
+		"TemplateName": "180 mm x 250 mm, 1 side THREE_00023536",
+		"CreatedByUserId": 2584,
+		"CreatedByUserName": "Terje Kristoffersen",
+		"Preview": "images/salgsoppgave3.jpg"
+	}
+]

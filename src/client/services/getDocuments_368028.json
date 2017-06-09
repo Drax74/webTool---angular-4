@@ -1,0 +1,56 @@
+[
+	{
+		"Id": 368106,
+		"Name": "Vindusplakat",
+		"TemplateId": 23456,
+		"TemplateName": "500 mm x 700 mm, 1 side THREE_00026399",
+		"CreatedByUserId": 2582,
+		"CreatedByUserName": "Nils Nilsen",
+		"Preview": "images/vindusplakat2.jpg"
+	},
+	{
+		"Id": 368107,
+		"Name": "Vindusplakat 1",
+		"TemplateId": 23456,
+		"TemplateName": "500 mm x 700 mm, 1 side THREE_00026399",
+		"CreatedByUserId": 2582,
+		"CreatedByUserName": "Nils Nilsen",
+		"Preview": "images/vindusplakat2.jpg"
+	},
+	{
+		"Id": 368108,
+		"Name": "Vindusplakat 2",
+		"TemplateId": 23456,
+		"TemplateName": "500 mm x 700 mm, 1 side THREE_00026399",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/vindusplakat2.jpg"
+	},
+	{
+		"Id": 368109,
+		"Name": "Vindusplakat 3",
+		"TemplateId": 23456,
+		"TemplateName": "500 mm x 700 mm, 1 side THREE_00026399",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/vindusplakat2.jpg"
+	},
+	{
+		"Id": 368110,
+		"Name": "Avisannonse",
+		"TemplateId": 22212,
+		"TemplateName": "122 mm x 88 mm, 1 side THREE_00022269",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/avisannonse2.jpg"
+	},
+	{
+		"Id": 368111,
+		"Name": "Avisannonse 1",
+		"TemplateId": 22212,
+		"TemplateName": "122 mm x 88 mm, 1 side THREE_00022269",
+		"CreatedByUserId": 2580,
+		"CreatedByUserName": "Ola Nordmann",
+		"Preview": "images/avisannonse2.jpg"
+	}
+]
